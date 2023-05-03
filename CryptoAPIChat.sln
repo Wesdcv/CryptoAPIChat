@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA2048Sharp", "RSA2048Sharp.csproj", "{3BF5F581-4BDA-4BB7-983C-069C4B7695BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA", "RSA.csproj", "{3BF5F581-4BDA-4BB7-983C-069C4B7695BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "..\Server\Server.csproj", "{B3193B53-818B-4BBF-8FD0-8C4E24E217D5}"
 	ProjectSection(ProjectDependencies) = postProject
