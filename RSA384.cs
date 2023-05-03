@@ -6,7 +6,7 @@ using System.Text;
 
 namespace RSA2048Sharp
 {
-    public class RSA2048
+    public class RSA384
     {
         private static string file = String.Format(@"{0}\keys.txt", Environment.CurrentDirectory);
         public static void GenerateKeys()
